@@ -1,6 +1,6 @@
-# 🌍 Satellite Image Enhancement with UNet + Transformer + GAN
+# Image Enhancement with UNet + Transformer + GAN
 
-This repository implements a **GAN-based model with UNet + Transformer generator** for satellite image enhancement, denoising, and reconstruction.  
+This repository implements a **GAN-based model with UNet + Transformer generator** for image enhancement, denoising, and reconstruction.  
 The project combines **transformers, perceptual loss, and adversarial training** to improve image quality while preserving structural details.
 
 ---
@@ -138,7 +138,7 @@ Multi-scale transformer blocks.
 
 Attention-based discriminator.
 
-Support for multispectral (beyond RGB) satellite images.
+Support for multispectral (beyond RGB)  images.
 
 ## ✨ Citation
 
